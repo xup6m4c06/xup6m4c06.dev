@@ -1,0 +1,11 @@
+baseURL = "http://localhost/"
+languageCode = "zh-tw"
+title = "xup6m4c06"
+theme = "typo"
+
+[params]
+  author = "你的名字"
+  description = "紀錄成長與生活的小地方"
+
+[params.assets]
+  css = ["css/main.css"]
